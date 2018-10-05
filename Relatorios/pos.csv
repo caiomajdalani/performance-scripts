@@ -1,0 +1,319 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1534797975733,1597,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,2,2,1597,0,210
+1534797977331,1443,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,3,3,1443,0,0
+1534797978133,1537,POST /purchases,200,OK,Point of Sales API 1-3,text,true,,443,1953,4,4,1537,0,59
+1534797978775,1030,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,4,4,1030,0,56
+1534797979805,1392,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,5,5,1392,0,0
+1534797976933,4943,POST /purchases,200,OK,Point of Sales API 1-2,text,true,,443,1953,6,6,4943,0,49
+1534797981197,4366,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,9,9,4365,0,54
+1534797979334,6239,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,9,9,6239,0,58
+1534797980533,5155,POST /purchases,200,OK,Point of Sales API 1-5,text,true,,443,1953,9,9,5155,0,59
+1534797982936,3768,POST /purchases,200,OK,Point of Sales API 1-7,text,true,,443,1953,10,10,3768,0,56
+1534797985563,1248,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,10,10,1248,0,48
+1534797986536,1432,POST /purchases,200,OK,Point of Sales API 1-10,text,true,,443,1953,11,11,1432,0,56
+1534797987737,1570,POST /purchases,200,OK,Point of Sales API 1-11,text,true,,443,1953,12,12,1570,0,54
+1534797986812,3198,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,12,12,3198,0,0
+1534797986704,3670,POST /purchases,200,OK,Point of Sales API 1-7,text,true,,443,1953,13,13,3670,0,58
+1534797988937,1696,POST /purchases,200,OK,Point of Sales API 1-12,text,true,,443,1953,13,13,1695,0,55
+1534797990136,964,POST /purchases,200,OK,Point of Sales API 1-13,text,true,,443,1953,13,13,964,0,57
+1534797989308,2494,POST /purchases,200,OK,Point of Sales API 1-11,text,true,,443,1953,14,14,2494,0,0
+1534797990374,2426,POST /purchases,200,OK,Point of Sales API 1-7,text,true,,443,1953,15,15,2426,0,13
+1534797991100,1891,POST /purchases,200,OK,Point of Sales API 1-13,text,true,,443,1953,15,15,1891,0,0
+1534797979672,13411,POST /purchases,200,OK,Point of Sales API 1-3,text,true,,443,1953,15,15,13411,0,0
+1534797981877,11407,POST /purchases,200,OK,Point of Sales API 1-2,text,true,,443,1953,15,15,11407,0,55
+1534797981735,11734,POST /purchases,200,OK,Point of Sales API 1-6,text,true,,443,1953,15,15,11734,0,57
+1534797990633,2839,POST /purchases,200,OK,Point of Sales API 1-12,text,true,,443,1953,15,15,2839,0,0
+1534797992538,2048,POST /purchases,200,OK,Point of Sales API 1-15,text,true,,443,1953,16,16,2048,0,53
+1534797991802,3698,POST /purchases,200,OK,Point of Sales API 1-11,text,true,,443,1953,17,17,3698,0,49
+1534797993470,3022,POST /purchases,200,OK,Point of Sales API 1-6,text,true,,443,1953,18,18,3022,0,52
+1534797993739,3152,POST /purchases,200,OK,Point of Sales API 1-16,text,true,,443,1953,18,18,3152,0,54
+1534797992800,4099,POST /purchases,200,OK,Point of Sales API 1-7,text,true,,443,1953,18,18,4099,0,52
+1534797993285,3982,POST /purchases,200,OK,Point of Sales API 1-2,text,true,,443,1953,18,18,3982,0,58
+1534797984136,13525,POST /purchases,200,OK,Point of Sales API 1-8,text,true,,443,1953,19,19,13525,0,55
+1534797994587,3198,POST /purchases,200,OK,Point of Sales API 1-15,text,true,,443,1953,19,19,3198,0,45
+1534797993473,4388,POST /purchases,200,OK,Point of Sales API 1-12,text,true,,443,1953,19,19,4388,0,50
+1534797997268,1132,POST /purchases,200,OK,Point of Sales API 1-2,text,true,,443,1953,19,19,1132,0,44
+1534797985573,12992,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,20,20,12992,0,50
+1534797994938,3659,POST /purchases,200,OK,Point of Sales API 1-17,text,true,,443,1953,20,20,3659,0,54
+1534797985336,14647,POST /purchases,200,OK,Point of Sales API 1-9,text,true,,443,1953,21,21,14647,0,56
+1534797997861,2228,POST /purchases,200,OK,Point of Sales API 1-12,text,true,,443,1953,21,21,2228,0,11
+1534797999740,1538,POST /purchases,200,OK,Point of Sales API 1-21,text,true,,443,1953,22,22,1538,0,52
+1534798000090,1879,POST /purchases,200,OK,Point of Sales API 1-12,text,true,,443,1953,22,22,1879,0,63
+1534797998540,3649,POST /purchases,200,OK,Point of Sales API 1-20,text,true,,443,1953,23,23,3649,0,52
+1534797985689,16995,POST /purchases,200,OK,Point of Sales API 1-5,text,true,,443,1953,23,23,16995,0,62
+1534797999984,2915,POST /purchases,200,OK,Point of Sales API 1-9,text,true,,443,1953,23,23,2915,0,59
+1534798002190,990,POST /purchases,200,OK,Point of Sales API 1-20,text,true,,443,1953,23,23,990,0,10
+1534797995501,8461,POST /purchases,200,OK,Point of Sales API 1-11,text,true,,443,1953,24,24,8461,0,62
+1534797996492,7793,POST /purchases,200,OK,Point of Sales API 1-6,text,true,,443,1953,24,24,7793,0,59
+1534797996901,7664,POST /purchases,200,OK,Point of Sales API 1-7,text,true,,443,1953,25,25,7664,0,50
+1534798003339,1511,POST /purchases,200,OK,Point of Sales API 1-24,text,true,,443,1953,25,25,1510,0,54
+1534798002139,3037,POST /purchases,200,OK,Point of Sales API 1-23,text,true,,443,1953,25,25,3037,0,53
+1534798003181,2287,POST /purchases,200,OK,Point of Sales API 1-20,text,true,,443,1953,25,25,2287,0,0
+1534798004850,1764,POST /purchases,200,OK,Point of Sales API 1-24,text,true,,443,1953,26,26,1764,0,0
+1534798002685,4901,POST /purchases,200,OK,Point of Sales API 1-5,text,true,,443,1953,27,27,4901,0,47
+1534798004286,4576,POST /purchases,200,OK,Point of Sales API 1-6,text,true,,443,1953,28,28,4576,0,57
+1534798004540,4534,POST /purchases,200,OK,Point of Sales API 1-25,text,true,,443,1953,28,28,4534,0,53
+1534798005469,4033,POST /purchases,200,OK,Point of Sales API 1-20,text,true,,443,1953,29,29,4033,0,54
+1534798008140,1657,POST /purchases,200,OK,Point of Sales API 1-28,text,true,,443,1953,29,29,1657,0,62
+1534798003963,6007,POST /purchases,200,OK,Point of Sales API 1-11,text,true,,443,1953,29,29,6006,0,60
+1534797998567,11711,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,29,29,11711,0,55
+1534797997786,12912,POST /purchases,200,OK,Point of Sales API 1-15,text,true,,443,1953,30,30,12912,0,57
+1534798005177,5683,POST /purchases,200,OK,Point of Sales API 1-23,text,true,,443,1953,30,30,5683,0,56
+1534797998597,12670,POST /purchases,200,OK,Point of Sales API 1-17,text,true,,443,1953,30,30,12670,0,55
+1534798010278,1005,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,30,30,1005,0,65
+1534797987968,24041,POST /purchases,200,OK,Point of Sales API 1-10,text,true,,443,1953,31,31,24041,0,0
+1534797992993,19628,POST /purchases,200,OK,Point of Sales API 1-13,text,true,,443,1953,31,31,19628,0,49
+1534797990010,22762,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,31,31,22762,0,10
+1534797997663,15701,POST /purchases,200,OK,Point of Sales API 1-8,text,true,,443,1953,32,32,15701,0,61
+1534798000940,13783,POST /purchases,200,OK,Point of Sales API 1-22,text,true,,443,1953,33,33,13783,0,52
+1534798002899,12072,POST /purchases,200,OK,Point of Sales API 1-9,text,true,,443,1953,33,33,12072,0,54
+1534798012774,2216,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,33,33,2216,0,59
+1534798008863,7521,POST /purchases,200,OK,Point of Sales API 1-6,text,true,,443,1953,34,34,7521,0,59
+1534798010861,5913,POST /purchases,200,OK,Point of Sales API 1-23,text,true,,443,1953,35,35,5913,0,51
+1534798013366,3506,POST /purchases,200,OK,Point of Sales API 1-8,text,true,,443,1953,35,35,3506,0,47
+1534798014725,2680,POST /purchases,200,OK,Point of Sales API 1-22,text,true,,443,1953,35,35,2680,0,49
+1534798001969,15546,POST /purchases,200,OK,Point of Sales API 1-12,text,true,,443,1953,35,35,15546,0,0
+1534798007586,10389,POST /purchases,200,OK,Point of Sales API 1-5,text,true,,443,1953,36,36,10389,0,57
+1534797996138,22749,POST /purchases,200,OK,Point of Sales API 1-18,text,true,,443,1953,36,36,22749,0,55
+1534798011283,7708,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,37,37,7708,0,0
+1534798017406,2090,POST /purchases,200,OK,Point of Sales API 1-22,text,true,,443,1953,37,37,2090,0,58
+1534798011267,8232,POST /purchases,200,OK,Point of Sales API 1-17,text,true,,443,1953,37,37,8232,0,55
+1534798009502,10106,POST /purchases,200,OK,Point of Sales API 1-20,text,true,,443,1953,37,37,10106,0,50
+1534797991337,28466,POST /purchases,200,OK,Point of Sales API 1-14,text,true,,443,1953,37,37,28466,0,55
+1534798017976,2032,POST /purchases,200,OK,Point of Sales API 1-5,text,true,,443,1953,37,37,2032,0,47
+1534798010699,9670,POST /purchases,200,OK,Point of Sales API 1-15,text,true,,443,1953,38,38,9670,0,53
+1534798012010,8436,POST /purchases,200,OK,Point of Sales API 1-10,text,true,,443,1953,38,38,8436,0,53
+1534798012622,8066,POST /purchases,200,OK,Point of Sales API 1-13,text,true,,443,1953,38,38,8066,0,9
+1534798010541,11386,POST /purchases,200,OK,Point of Sales API 1-30,text,true,,443,1953,39,39,11386,0,51
+1534798011740,10575,POST /purchases,200,OK,Point of Sales API 1-31,text,true,,443,1953,39,39,10575,0,52
+1534797996891,25596,POST /purchases,200,OK,Point of Sales API 1-16,text,true,,443,1953,39,39,25596,0,60
+1534797993084,30056,POST /purchases,502,Bad Gateway,Point of Sales API 1-3,text,false,Test failed: code expected to contain /200/,504,1953,40,40,30056,0,48
+1534798016543,7989,POST /purchases,200,OK,Point of Sales API 1-35,text,true,,443,1953,41,41,7989,0,61
+1534798014991,9908,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,41,41,9908,0,53
+1534798022316,3050,POST /purchases,200,OK,Point of Sales API 1-31,text,true,,443,1953,42,42,3050,0,58
+1534798014141,11425,POST /purchases,200,OK,Point of Sales API 1-33,text,true,,443,1953,42,42,11425,0,52
+1534798015342,10673,POST /purchases,200,OK,Point of Sales API 1-34,text,true,,443,1953,42,42,10673,0,52
+1534798022543,3921,POST /purchases,200,OK,Point of Sales API 1-40,text,true,,443,1953,43,43,3921,0,51
+1534798014972,11932,POST /purchases,200,OK,Point of Sales API 1-9,text,true,,443,1953,43,43,11932,0,52
+1534797997340,30066,POST /purchases,502,Bad Gateway,Point of Sales API 1-19,text,false,Test failed: code expected to contain /200/,504,1953,44,44,30066,0,62
+1534797998400,29390,POST /purchases,200,OK,Point of Sales API 1-2,text,true,,443,1953,44,44,29390,0,0
+1534798016775,11219,POST /purchases,200,OK,Point of Sales API 1-23,text,true,,443,1953,44,44,11219,0,49
+1534798016386,11608,POST /purchases,200,OK,Point of Sales API 1-6,text,true,,443,1953,44,44,11608,0,6
+1534798023743,5026,POST /purchases,200,OK,Point of Sales API 1-41,text,true,,443,1953,45,45,5026,0,51
+1534798020143,10270,POST /purchases,200,OK,Point of Sales API 1-38,text,true,,443,1953,46,46,10270,0,61
+1534798019806,10792,POST /purchases,200,OK,Point of Sales API 1-14,text,true,,443,1953,46,46,10792,0,59
+1534798026015,5072,POST /purchases,200,OK,Point of Sales API 1-34,text,true,,443,1953,47,47,5072,0,49
+1534798001279,30005,POST /purchases,502,Bad Gateway,Point of Sales API 1-21,text,false,Test failed: code expected to contain /200/,504,1953,47,47,30005,0,0
+1534798018993,12637,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,47,47,12637,0,51
+1534798026905,4758,POST /purchases,200,OK,Point of Sales API 1-9,text,true,,443,1953,47,47,4758,0,60
+1534798022489,9243,POST /purchases,200,OK,Point of Sales API 1-16,text,true,,443,1953,47,47,9243,0,54
+1534798021342,10826,POST /purchases,200,OK,Point of Sales API 1-39,text,true,,443,1953,48,48,10826,0,51
+1534798020448,11856,POST /purchases,200,OK,Point of Sales API 1-10,text,true,,443,1953,48,48,11856,0,56
+1534798024899,7722,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,48,48,7722,0,57
+1534798027994,5075,POST /purchases,200,OK,Point of Sales API 1-23,text,true,,443,1953,48,48,5075,0,50
+1534798020008,13806,POST /purchases,200,OK,Point of Sales API 1-5,text,true,,443,1953,49,49,13806,0,56
+1534798017743,16175,POST /purchases,200,OK,Point of Sales API 1-36,text,true,,443,1953,49,49,16175,0,51
+1534798019610,14368,POST /purchases,200,OK,Point of Sales API 1-20,text,true,,443,1953,49,49,14368,0,54
+1534798004565,29821,POST /purchases,200,OK,Point of Sales API 1-7,text,true,,443,1953,49,49,29821,0,47
+1534798005740,28941,POST /purchases,200,OK,Point of Sales API 1-26,text,true,,443,1953,50,50,28941,0,62
+1534798019500,15785,POST /purchases,200,OK,Point of Sales API 1-17,text,true,,443,1953,50,50,15785,0,53
+1534798029744,5646,POST /purchases,200,OK,Point of Sales API 1-46,text,true,,443,1953,50,50,5646,0,50
+1534798006614,30065,POST /purchases,502,Bad Gateway,Point of Sales API 1-24,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30065,0,58
+1534798006939,30062,POST /purchases,502,Bad Gateway,Point of Sales API 1-27,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30062,0,55
+1534798030598,6490,POST /purchases,200,OK,Point of Sales API 1-14,text,true,,443,1953,50,50,6490,0,12
+1534798031630,5844,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,50,50,5844,0,53
+1534798032622,5883,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,50,50,5883,0,51
+1534798021928,16866,POST /purchases,200,OK,Point of Sales API 1-30,text,true,,443,1953,50,50,16866,0,56
+1534798020370,18556,POST /purchases,200,OK,Point of Sales API 1-15,text,true,,443,1953,50,50,18556,0,54
+1534798009075,30054,POST /purchases,502,Bad Gateway,Point of Sales API 1-25,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30054,0,47
+1534798032304,6964,POST /purchases,200,OK,Point of Sales API 1-10,text,true,,443,1953,50,50,6963,0,50
+1534798009341,30069,POST /purchases,502,Bad Gateway,Point of Sales API 1-29,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30069,0,62
+1534798033070,6553,POST /purchases,200,OK,Point of Sales API 1-23,text,true,,443,1953,50,50,6553,0,54
+1534798009798,30006,POST /purchases,502,Bad Gateway,Point of Sales API 1-28,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30006,0,0
+1534798009970,30059,POST /purchases,502,Bad Gateway,Point of Sales API 1-11,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30059,0,52
+1534798033919,7059,POST /purchases,200,OK,Point of Sales API 1-36,text,true,,443,1953,50,50,7059,0,57
+1534798033344,7836,POST /purchases,200,OK,Point of Sales API 1-49,text,true,,443,1953,50,50,7836,0,60
+1534798035390,6078,POST /purchases,200,OK,Point of Sales API 1-46,text,true,,443,1953,50,50,6078,0,54
+1534798012941,30070,POST /purchases,502,Bad Gateway,Point of Sales API 1-32,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30070,0,62
+1534798039805,4109,POST /purchases,200,OK,Point of Sales API 1-28,text,true,,443,1953,50,50,4109,0,59
+1534798041468,2958,POST /purchases,200,OK,Point of Sales API 1-46,text,true,,443,1953,50,50,2958,0,56
+1534798025366,19299,POST /purchases,200,OK,Point of Sales API 1-31,text,true,,443,1953,50,50,19299,0,57
+1534798031087,13816,POST /purchases,200,OK,Point of Sales API 1-34,text,true,,443,1953,50,50,13816,0,48
+1534798023141,22058,POST /purchases,200,OK,Point of Sales API 1-3,text,true,,443,1953,50,50,22058,0,62
+1534798027994,17270,POST /purchases,200,OK,Point of Sales API 1-6,text,true,,443,1953,50,50,17270,0,10
+1534798024533,21067,POST /purchases,200,OK,Point of Sales API 1-35,text,true,,443,1953,50,50,21067,0,51
+1534798024944,21330,POST /purchases,200,OK,Point of Sales API 1-42,text,true,,443,1953,50,50,21330,0,49
+1534798037474,9397,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,50,50,9397,0,50
+1534798016872,30015,POST /purchases,502,Bad Gateway,Point of Sales API 1-8,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30015,0,9
+1534798030943,16551,POST /purchases,200,OK,Point of Sales API 1-47,text,true,,443,1953,50,50,16551,0,51
+1534798017517,30065,POST /purchases,502,Bad Gateway,Point of Sales API 1-12,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30065,0,57
+1534798037089,10675,POST /purchases,200,OK,Point of Sales API 1-14,text,true,,443,1953,50,50,10675,0,55
+1534798018889,30060,POST /purchases,502,Bad Gateway,Point of Sales API 1-18,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30060,0,54
+1534798018943,30056,POST /purchases,502,Bad Gateway,Point of Sales API 1-37,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30056,0,51
+1534798027344,21725,POST /purchases,200,OK,Point of Sales API 1-44,text,true,,443,1953,50,50,21725,0,59
+1534798030413,19067,POST /purchases,200,OK,Point of Sales API 1-38,text,true,,443,1953,50,50,19067,0,65
+1534798019496,30055,POST /purchases,502,Bad Gateway,Point of Sales API 1-22,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30055,0,47
+1534798028769,21403,POST /purchases,200,OK,Point of Sales API 1-41,text,true,,443,1953,50,50,21403,0,55
+1534798028542,21733,POST /purchases,200,OK,Point of Sales API 1-45,text,true,,443,1953,50,50,21733,0,52
+1534798020689,30061,POST /purchases,502,Bad Gateway,Point of Sales API 1-13,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30061,0,55
+1534798027791,23015,POST /purchases,200,OK,Point of Sales API 1-2,text,true,,443,1953,50,50,23015,0,53
+1534798040978,9992,POST /purchases,200,OK,Point of Sales API 1-36,text,true,,443,1953,50,50,9992,0,56
+1534798034682,16314,POST /purchases,200,OK,Point of Sales API 1-26,text,true,,443,1953,50,50,16314,0,52
+1534798045265,7562,POST /purchases,200,OK,Point of Sales API 1-6,text,true,,443,1953,50,50,7562,0,53
+1534798032168,21115,POST /purchases,200,OK,Point of Sales API 1-39,text,true,,443,1953,50,50,21115,0,56
+1534798032144,21633,POST /purchases,200,OK,Point of Sales API 1-48,text,true,,443,1953,50,50,21633,0,60
+1534798034388,19616,POST /purchases,200,OK,Point of Sales API 1-7,text,true,,443,1953,50,50,19616,0,83
+1534798038927,15472,POST /purchases,200,OK,Point of Sales API 1-15,text,true,,443,1953,50,50,15472,0,58
+1534798033979,20595,POST /purchases,200,OK,Point of Sales API 1-20,text,true,,443,1953,50,50,20595,0,55
+1534798033814,20892,POST /purchases,200,OK,Point of Sales API 1-5,text,true,,443,1953,50,50,20892,0,50
+1534798039411,15557,POST /purchases,200,OK,Point of Sales API 1-29,text,true,,443,1953,50,50,15557,0,53
+1534798038505,16682,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,50,50,16682,0,49
+1534798031663,23537,POST /purchases,200,OK,Point of Sales API 1-9,text,true,,443,1953,50,50,23537,0,49
+1534798025566,30066,POST /purchases,502,Bad Gateway,Point of Sales API 1-33,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30066,0,58
+1534798026143,30056,POST /purchases,502,Bad Gateway,Point of Sales API 1-43,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30056,0,51
+1534798046888,9615,POST /purchases,200,OK,Point of Sales API 1-8,text,true,,443,1953,50,50,9615,0,56
+1534798026464,30056,POST /purchases,502,Bad Gateway,Point of Sales API 1-40,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30056,0,50
+1534798046872,10029,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,50,50,10029,0,53
+1534798027407,30053,POST /purchases,502,Bad Gateway,Point of Sales API 1-19,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30053,0,47
+1534798040030,17453,POST /purchases,200,OK,Point of Sales API 1-11,text,true,,443,1953,50,50,17453,0,54
+1534798034544,23430,POST /purchases,200,OK,Point of Sales API 1-50,text,true,,443,1953,50,50,23430,0,71
+1534798047766,10503,POST /purchases,200,OK,Point of Sales API 1-14,text,true,,443,1953,50,50,10503,0,60
+1534798049071,10310,POST /purchases,200,OK,Point of Sales API 1-44,text,true,,443,1953,50,50,10310,0,55
+1534798036682,23005,POST /purchases,200,OK,Point of Sales API 1-24,text,true,,443,1953,50,50,23005,0,52
+1534798046276,13993,POST /purchases,200,OK,Point of Sales API 1-42,text,true,,443,1953,50,50,13993,0,59
+1534798049553,11062,POST /purchases,200,OK,Point of Sales API 1-22,text,true,,443,1953,50,50,11062,0,52
+1534798031285,30055,POST /purchases,502,Bad Gateway,Point of Sales API 1-21,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30055,0,49
+1534798031732,30057,POST /purchases,502,Bad Gateway,Point of Sales API 1-16,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30057,0,52
+1534798047583,14828,POST /purchases,200,OK,Point of Sales API 1-12,text,true,,443,1953,50,50,14828,0,53
+1534798039268,23460,POST /purchases,200,OK,Point of Sales API 1-10,text,true,,443,1953,50,50,23460,0,56
+1534798062731,73,POST /purchases,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Point of Sales API 1-10,text,false,Test failed: code expected to contain /200/,2328,0,50,50,0,0,73
+1534798050997,11938,POST /purchases,200,OK,Point of Sales API 1-26,text,true,,443,1953,50,50,11938,0,47
+1534798043013,20296,POST /purchases,200,OK,Point of Sales API 1-32,text,true,,443,1953,50,50,20296,0,56
+1534798056505,6819,POST /purchases,200,OK,Point of Sales API 1-8,text,true,,443,1953,50,50,6819,0,51
+1534798056202,7662,POST /purchases,200,OK,Point of Sales API 1-43,text,true,,443,1953,50,50,7662,0,54
+1534798055203,9632,POST /purchases,200,OK,Point of Sales API 1-9,text,true,,443,1953,50,50,9632,0,53
+1534798035285,30082,POST /purchases,502,Bad Gateway,Point of Sales API 1-17,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30082,0,48
+1534798054401,11828,POST /purchases,200,OK,Point of Sales API 1-15,text,true,,443,1953,50,50,11828,0,54
+1534798050751,16255,POST /purchases,200,OK,Point of Sales API 1-13,text,true,,443,1953,50,50,16255,0,54
+1534798037003,30077,POST /purchases,502,Bad Gateway,Point of Sales API 1-27,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30077,0,51
+1534798056903,10790,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,50,50,10790,0,54
+1534798057976,10027,POST /purchases,200,OK,Point of Sales API 1-50,text,true,,443,1953,50,50,10027,0,50
+1534798041181,27543,POST /purchases,200,OK,Point of Sales API 1-49,text,true,,443,1953,50,50,27543,0,64
+1534798038794,30078,POST /purchases,502,Bad Gateway,Point of Sales API 1-30,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30078,0,50
+1534798039130,30078,POST /purchases,502,Bad Gateway,Point of Sales API 1-25,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30078,0,55
+1534798039624,30066,POST /purchases,502,Bad Gateway,Point of Sales API 1-23,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30066,0,60
+1534798057486,12210,POST /purchases,200,OK,Point of Sales API 1-11,text,true,,443,1953,50,50,12210,0,50
+1534798048950,21016,POST /purchases,200,OK,Point of Sales API 1-18,text,true,,443,1953,50,50,21016,0,55
+1534798044666,25999,POST /purchases,200,OK,Point of Sales API 1-31,text,true,,443,1953,50,50,25999,0,71
+1534798047496,24868,POST /purchases,200,OK,Point of Sales API 1-47,text,true,,443,1953,50,50,24868,0,49
+1534798044428,28077,POST /purchases,200,OK,Point of Sales API 1-46,text,true,,443,1953,50,50,28077,0,60
+1534798049001,24582,POST /purchases,200,OK,Point of Sales API 1-37,text,true,,443,1953,50,50,24582,0,54
+1534798043915,29768,POST /purchases,200,OK,Point of Sales API 1-28,text,true,,443,1953,50,50,29768,0,64
+1534798044904,28779,POST /purchases,200,OK,Point of Sales API 1-34,text,true,,443,1953,50,50,28779,0,65
+1534798045200,28765,POST /purchases,200,OK,Point of Sales API 1-3,text,true,,443,1953,50,50,28765,0,59
+1534798062413,11587,POST /purchases,200,OK,Point of Sales API 1-12,text,true,,443,1953,50,50,11587,0,183
+1534798045601,28589,POST /purchases,200,OK,Point of Sales API 1-35,text,true,,443,1953,50,50,28589,0,17
+1534798050174,24600,POST /purchases,200,OK,Point of Sales API 1-41,text,true,,443,1953,50,50,24600,0,60
+1534798050971,24430,POST /purchases,200,OK,Point of Sales API 1-36,text,true,,443,1953,50,50,24430,0,54
+1534798056522,19197,POST /purchases,200,OK,Point of Sales API 1-40,text,true,,443,1953,50,50,19197,0,55
+1534798054970,21114,POST /purchases,200,OK,Point of Sales API 1-29,text,true,,443,1953,50,50,21114,0,56
+1534798063324,12975,POST /purchases,200,OK,Point of Sales API 1-8,text,true,,443,1953,50,50,12975,0,169
+1534798057462,19120,POST /purchases,200,OK,Point of Sales API 1-19,text,true,,443,1953,50,50,19120,0,55
+1534798054577,22416,POST /purchases,200,OK,Point of Sales API 1-20,text,true,,443,1953,50,50,22416,0,59
+1534798060616,16871,POST /purchases,200,OK,Point of Sales API 1-22,text,true,,443,1953,50,50,16871,0,49
+1534798067082,11712,POST /purchases,200,OK,Point of Sales API 1-27,text,true,,443,1953,50,50,11712,0,79
+1534798073685,5310,POST /purchases,200,OK,Point of Sales API 1-28,text,true,,443,1953,50,50,5310,0,53
+1534798053286,26081,POST /purchases,200,OK,Point of Sales API 1-39,text,true,,443,1953,50,50,26081,0,61
+1534798049482,30059,POST /purchases,502,Bad Gateway,Point of Sales API 1-38,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30059,0,53
+1534798075721,3895,POST /purchases,200,OK,Point of Sales API 1-40,text,true,,443,1953,50,50,3895,0,56
+1534798064836,14862,POST /purchases,200,OK,Point of Sales API 1-9,text,true,,443,1953,50,50,14862,0,162
+1534798068003,12187,POST /purchases,200,OK,Point of Sales API 1-50,text,true,,443,1953,50,50,12187,0,83
+1534798053779,26517,POST /purchases,200,OK,Point of Sales API 1-48,text,true,,443,1953,50,50,26517,0,47
+1534798050276,30053,POST /purchases,502,Bad Gateway,Point of Sales API 1-45,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30053,0,48
+1534798050807,30054,POST /purchases,502,Bad Gateway,Point of Sales API 1-2,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30054,0,48
+1534798062936,17967,POST /purchases,200,OK,Point of Sales API 1-26,text,true,,443,1953,50,50,17967,0,178
+1534798063310,17801,POST /purchases,200,OK,Point of Sales API 1-32,text,true,,443,1953,50,50,17801,0,167
+1534798079544,2022,POST /purchases,200,OK,Point of Sales API 1-38,text,true,,443,1953,50,50,2022,0,53
+1534798058271,23359,POST /purchases,200,OK,Point of Sales API 1-14,text,true,,443,1953,50,50,23359,0,55
+1534798066229,15648,POST /purchases,200,OK,Point of Sales API 1-15,text,true,,443,1953,50,50,15648,0,81
+1534798052828,29239,POST /purchases,200,OK,Point of Sales API 1-6,text,true,,443,1953,50,50,29239,0,47
+1534798067007,15674,POST /purchases,200,OK,Point of Sales API 1-13,text,true,,443,1953,50,50,15674,0,86
+1534798067693,15280,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,50,50,15280,0,109
+1534798054006,29267,POST /purchases,200,OK,Point of Sales API 1-7,text,true,,443,1953,50,50,29267,0,51
+1534798081878,1693,POST /purchases,200,OK,Point of Sales API 1-15,text,true,,443,1953,50,50,1693,0,10
+1534798069210,14382,POST /purchases,200,OK,Point of Sales API 1-25,text,true,,443,1953,50,50,14382,0,58
+1534798054708,29165,POST /purchases,200,OK,Point of Sales API 1-5,text,true,,443,1953,50,50,29165,0,48
+1534798059382,24822,POST /purchases,200,OK,Point of Sales API 1-44,text,true,,443,1953,50,50,24822,0,56
+1534798068727,16149,POST /purchases,200,OK,Point of Sales API 1-49,text,true,,443,1953,50,50,16149,0,91
+1534798055190,30063,POST /purchases,502,Bad Gateway,Point of Sales API 1-1,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30063,0,57
+1534798059690,25797,POST /purchases,200,OK,Point of Sales API 1-24,text,true,,443,1953,50,50,25796,0,14
+1534798060271,25410,POST /purchases,200,OK,Point of Sales API 1-42,text,true,,443,1953,50,50,25410,0,55
+1534798055634,30059,POST /purchases,502,Bad Gateway,Point of Sales API 1-33,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30059,0,52
+1534798065369,23722,POST /purchases,200,OK,Point of Sales API 1-17,text,true,,443,1953,50,50,23722,0,65
+1534798069968,19398,POST /purchases,200,OK,Point of Sales API 1-18,text,true,,443,1953,50,50,19398,0,59
+1534798061342,28625,POST /purchases,200,OK,Point of Sales API 1-21,text,true,,443,1953,50,50,28625,0,54
+1534798076086,14830,POST /purchases,200,OK,Point of Sales API 1-29,text,true,,443,1953,50,50,14830,0,52
+1534798062805,28279,POST /purchases,200,OK,Point of Sales API 1-10,text,true,,443,1953,50,50,28279,0,202
+1534798074193,17111,POST /purchases,200,OK,Point of Sales API 1-35,text,true,,443,1953,50,50,17111,0,58
+1534798061792,30064,POST /purchases,502,Bad Gateway,Point of Sales API 1-16,text,false,Test failed: code expected to contain /200/,504,1953,50,50,30064,0,59
+1534798073585,18280,POST /purchases,200,OK,Point of Sales API 1-37,text,true,,443,1953,50,50,18280,0,53
+1534798073967,18506,POST /purchases,200,OK,Point of Sales API 1-3,text,true,,443,1953,50,50,18506,0,49
+1534798079617,12949,POST /purchases,200,OK,Point of Sales API 1-40,text,true,,443,1953,50,50,12949,0,61
+1534798089092,3548,POST /purchases,200,OK,Point of Sales API 1-17,text,true,,443,1953,50,50,3548,0,56
+1534798089368,3281,POST /purchases,200,OK,Point of Sales API 1-18,text,true,,443,1953,50,50,3281,0,59
+1534798063864,29857,POST /purchases,200,OK,Point of Sales API 1-43,text,true,,443,1953,50,50,29857,0,139
+1534798084878,9500,POST /purchases,200,OK,Point of Sales API 1-49,text,true,,443,1953,50,50,9500,0,49
+1534798075403,19295,POST /purchases,200,OK,Point of Sales API 1-36,text,true,,443,1953,50,50,19295,0,55
+1534798069696,25269,POST /purchases,200,OK,Point of Sales API 1-11,text,true,,443,1953,50,50,25269,0,61
+1534798092640,2369,POST /purchases,200,OK,Point of Sales API 1-17,text,true,,443,1953,50,50,2369,0,47
+1534798070667,25007,POST /purchases,200,OK,Point of Sales API 1-31,text,true,,443,1953,50,50,25007,0,13
+1534798082974,13628,POST /purchases,200,OK,Point of Sales API 1-4,text,true,,443,1953,50,50,13628,0,54
+1534798083874,13305,POST /purchases,200,OK,Point of Sales API 1-5,text,true,,443,1953,49,49,13305,0,54
+1534798077488,19821,POST /purchases,200,OK,Point of Sales API 1-22,text,true,,443,1953,48,48,19821,0,50
+1534798094699,2871,POST /purchases,200,OK,Point of Sales API 1-36,text,true,,443,1953,47,47,2871,0,59
+1534798083593,14697,POST /purchases,200,OK,Point of Sales API 1-25,text,true,,443,1953,46,46,14697,0,54
+1534798095675,2666,POST /purchases,200,OK,Point of Sales API 1-31,text,true,,443,1953,45,45,2666,0,53
+1534798078795,20091,POST /purchases,200,OK,Point of Sales API 1-27,text,true,,443,1953,44,44,20091,0,53
+1534798068875,30107,POST /purchases,502,Bad Gateway,Point of Sales API 1-30,text,false,Test failed: code expected to contain /200/,504,1953,43,43,30107,0,102
+1534798080192,19375,POST /purchases,200,OK,Point of Sales API 1-50,text,true,,443,1953,42,42,19375,0,55
+1534798069693,30059,POST /purchases,502,Bad Gateway,Point of Sales API 1-23,text,false,Test failed: code expected to contain /200/,504,1953,41,41,30059,0,53
+1534798072506,27360,POST /purchases,200,OK,Point of Sales API 1-46,text,true,,443,1953,40,40,27360,0,51
+1534798079699,20667,POST /purchases,200,OK,Point of Sales API 1-9,text,true,,443,1953,39,39,20667,0,58
+1534798091858,8535,POST /purchases,200,OK,Point of Sales API 1-16,text,true,,443,1953,38,38,8535,0,60
+1534798083572,17495,POST /purchases,200,OK,Point of Sales API 1-15,text,true,,443,1953,37,37,17495,0,0
+1534798094378,6816,POST /purchases,200,OK,Point of Sales API 1-49,text,true,,443,1953,36,36,6816,0,8
+1534798095010,6405,POST /purchases,200,OK,Point of Sales API 1-17,text,true,,443,1953,35,35,6405,0,47
+1534798072366,29320,POST /purchases,200,OK,Point of Sales API 1-47,text,true,,443,1953,34,34,29320,0,50
+1534798081631,21043,POST /purchases,200,OK,Point of Sales API 1-14,text,true,,443,1953,33,33,21043,0,12
+1534798073685,29394,POST /purchases,200,OK,Point of Sales API 1-34,text,true,,443,1953,32,32,29394,0,53
+1534798076300,27270,POST /purchases,200,OK,Point of Sales API 1-8,text,true,,443,1953,31,31,27270,0,49
+1534798080297,23372,POST /purchases,200,OK,Point of Sales API 1-48,text,true,,443,1953,30,30,23372,0,50
+1534798084206,19762,POST /purchases,200,OK,Point of Sales API 1-44,text,true,,443,1953,29,29,19762,0,51
+1534798076995,26986,POST /purchases,200,OK,Point of Sales API 1-20,text,true,,443,1953,28,28,26986,0,53
+1534798074001,30051,POST /purchases,502,Bad Gateway,Point of Sales API 1-12,text,false,Test failed: code expected to contain /200/,504,1953,27,27,30051,0,45
+1534798092567,11902,POST /purchases,200,OK,Point of Sales API 1-40,text,true,,443,1953,26,26,11902,0,50
+1534798074776,30069,POST /purchases,502,Bad Gateway,Point of Sales API 1-41,text,false,Test failed: code expected to contain /200/,504,1953,25,25,30069,0,64
+1534798085695,19172,POST /purchases,200,OK,Point of Sales API 1-33,text,true,,443,1953,24,24,19172,0,51
+1534798081113,24253,POST /purchases,200,OK,Point of Sales API 1-32,text,true,,443,1953,23,23,24253,0,66
+1534798080905,24663,POST /purchases,200,OK,Point of Sales API 1-26,text,true,,443,1953,22,22,24663,0,51
+1534798091304,14672,POST /purchases,200,OK,Point of Sales API 1-35,text,true,,443,1953,21,21,14672,0,54
+1534798082682,23504,POST /purchases,200,OK,Point of Sales API 1-13,text,true,,443,1953,20,20,23504,0,9
+1534798078995,27370,POST /purchases,200,OK,Point of Sales API 1-28,text,true,,443,1953,19,19,27370,0,53
+1534798085255,21250,POST /purchases,200,OK,Point of Sales API 1-1,text,true,,443,1953,18,18,21250,0,53
+1534798092649,13923,POST /purchases,200,OK,Point of Sales API 1-18,text,true,,443,1953,17,17,13923,0,48
+1534798076584,30061,POST /purchases,502,Bad Gateway,Point of Sales API 1-19,text,false,Test failed: code expected to contain /200/,504,1953,16,16,30061,0,54
+1534798091866,15201,POST /purchases,200,OK,Point of Sales API 1-37,text,true,,443,1953,15,15,15201,0,61
+1534798091086,16391,POST /purchases,200,OK,Point of Sales API 1-10,text,true,,443,1953,14,14,16391,0,52
+1534798089969,17725,POST /purchases,200,OK,Point of Sales API 1-21,text,true,,443,1953,13,13,17725,0,49
+1534798094967,12922,POST /purchases,200,OK,Point of Sales API 1-11,text,true,,443,1953,12,12,12922,0,60
+1534798090916,17004,POST /purchases,200,OK,Point of Sales API 1-29,text,true,,443,1953,11,11,17004,0,52
+1534798079368,30055,POST /purchases,502,Bad Gateway,Point of Sales API 1-39,text,false,Test failed: code expected to contain /200/,504,1953,10,10,30055,0,50
+1534798080332,30062,POST /purchases,502,Bad Gateway,Point of Sales API 1-45,text,false,Test failed: code expected to contain /200/,504,1953,9,9,30062,0,56
+1534798080864,30058,POST /purchases,502,Bad Gateway,Point of Sales API 1-2,text,false,Test failed: code expected to contain /200/,504,1953,8,8,30058,0,53
+1534798081566,30057,POST /purchases,502,Bad Gateway,Point of Sales API 1-38,text,false,Test failed: code expected to contain /200/,504,1953,7,7,30057,0,50
+1534798082070,30054,POST /purchases,502,Bad Gateway,Point of Sales API 1-6,text,false,Test failed: code expected to contain /200/,504,1953,6,6,30054,0,47
+1534798083274,29127,POST /purchases,200,OK,Point of Sales API 1-7,text,true,,443,1953,5,5,29127,0,53
+1534798085488,28790,POST /purchases,200,OK,Point of Sales API 1-24,text,true,,443,1953,4,4,28790,0,49
+1534798085683,29821,POST /purchases,200,OK,Point of Sales API 1-42,text,true,,443,1953,3,3,29821,0,55
+1534798093722,22247,POST /purchases,200,OK,Point of Sales API 1-43,text,true,,443,1953,2,2,22247,0,56
+1534798092473,24109,POST /purchases,200,OK,Point of Sales API 1-3,text,true,,443,1953,1,1,24109,0,54

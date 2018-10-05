@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1533748113576,12608,http://uat.promocaomaisquedigital.com.br/login/return?token=BA9A7839-B042-4831-B5F2-82D5A911F7A5,200,OK,Thread Group 1-1,text,true,,946412,14418,1,1,10902,0,7
+1533748131186,601,http://uat.promocaomaisquedigital.com.br/comofunciona,200,OK,Thread Group 1-1,text,true,,70611,15614,1,1,43,0,4
+1533748136789,836,http://uat.promocaomaisquedigital.com.br/desafio,200,OK,Thread Group 1-1,text,true,,1738053,25197,1,1,90,0,3
+1533748142627,818,http://uat.promocaomaisquedigital.com.br/recompensa,200,OK,Thread Group 1-1,text,true,,6937,11026,1,1,274,0,4
+1533748148446,884,http://uat.promocaomaisquedigital.com.br/cadastro,200,OK,Thread Group 1-1,text,true,,8794,12469,1,1,342,0,2
+1533748108574,15747,Promoção Mais que Digital,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,2770807,78724,1,1,11651,25008,20

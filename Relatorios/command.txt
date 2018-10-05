@@ -1,0 +1,1 @@
+jmeter -g C:\code\performance-scripts\Relatorios\teste.csv -o C:\code\performance-scripts\Relatorios\HTMLReports
